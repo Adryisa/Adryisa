@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="300" height="300" align="right"/>
 
-<h3 align="left">I'm a frontend developer from Spain, and I'm passionate on creating technology to elevate people, and building community. Some technologies I enjoy working with ReactJS, Vue and Javascript.</h3>
+<h3 align="left">I'm a frontend and backend developer from Spain, I'm passionate on creating technology to elevate people, and building community. Some technologies I enjoy working with are ReactJS, Vue and Javascript.</h3>
 
 --- 
 - 🌱 I’m currently learning **Vue and nest on the backend**
