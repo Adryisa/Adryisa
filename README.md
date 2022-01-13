@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Adriana Ortiz</h1>
+
+![image](https://user-images.githubusercontent.com/87788382/149360091-635569c8-91c4-4a6a-8e7b-d279568acf4d.png)
+
 <h3 align="center">I'm a frontend developer from Spain, and I'm passionate on creating technology to elevate people, and building community. Some technologies I enjoy working with includes ReactJS, Vue and Jamstack (JavaScript, APIs + Markup).</h3>
 
 - 🌱 I’m currently learning **Vue and nest on the backend**
